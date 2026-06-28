@@ -46,4 +46,4 @@ For App Store Connect, use the published URLs for:
 - Privacy Policy URL: `https://<your-github-username>.github.io/<repository-name>/privacy.html`
 - Support URL: `https://<your-github-username>.github.io/<repository-name>/support.html`
 
-Before submitting to Apple, replace `support@example.com` in `support.html` with your real support email address.
+Support emails are sent to `tara_indy_consulting@icloud.com`.
