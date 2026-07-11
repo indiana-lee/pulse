@@ -182,12 +182,16 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex: 0 0 auto;
   text-decoration: none;
 }
 
 .app-store-badge img {
+  display: block;
   width: 160px;
   height: auto;
+  max-width: 100%;
+  flex-shrink: 0;
 }
 
 .app-store-badge:hover {
